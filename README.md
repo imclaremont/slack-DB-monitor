@@ -1,3 +1,9 @@
+# 동작 화면
+<img alt="Image" src="https://github.com/user-attachments/assets/beaec51f-1434-4a31-9368-9456cf191639"/>
+
+<br>
+<br>
+
 # 준비 사항
 - [Slack Webhook URL](https://api.slack.com/messaging/webhooks) 생성 후 `.env` 파일에 저장
 - `.env` 파일에 **MySQL 접속 정보** (`user`, `password`, `host`, `port`, `db`) 추가
